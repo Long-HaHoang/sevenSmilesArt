@@ -1,4 +1,4 @@
-import Footer from "./Footer";
+import Footer from "../components/Footer";
 
 export default function HomePage() {
   return (
@@ -8,7 +8,7 @@ export default function HomePage() {
         <div>
           <a href="/portfolio">Portfolio</a>
           <a href="/linktree">Link Tree</a>
-          <a href="/shop">Shop</a>
+          <a href="https://www.instagram.com/EyJoJordan">Shop (*)</a>
         </div>
       </header>
       <main>

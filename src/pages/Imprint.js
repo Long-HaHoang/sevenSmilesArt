@@ -1,9 +1,11 @@
+import Footer from "../components/Footer";
+
 export default function ImprintPage() {
   return (
     <>
       <header>
         <h1>Imprint (Impressum)</h1>
-        <a href={"./App.js"}>&larr; Home</a>
+        <a href={"/"}>&larr; Home</a>
       </header>
       <main>
         <small>
@@ -88,6 +90,7 @@ export default function ImprintPage() {
           </a>
         </p>
       </main>
+      <Footer />
     </>
   );
 }

@@ -95,6 +95,31 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+header {
+  border: solid blue;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header div {
+  border: solid red;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+}
+
 a {
   color: inherit;
   text-decoration: none;
