@@ -7,9 +7,11 @@ import {
 } from "react-router-dom";
 
 // import components
-import Home from "./components/Home";
-import ImprintPage from "./components/Imprint";
-import DataPrivacyPage from "./components/DataPrivacy";
+import Home from "./pages/Home";
+import ImprintPage from "./pages/Imprint";
+import DataPrivacyPage from "./pages/DataPrivacy";
+import PortfolioPage from "./pages/Portfolio";
+import LinkTreePage from "./pages/LinkTree";
 
 function App() {
   return (
@@ -23,11 +25,9 @@ function App() {
           <Route exact path="/" component={Home} />
 
           <Route path="/imprint" component={ImprintPage} />
-
-          {/* This route is for data privacy component
-          with exact path "/dataprivacy", in 
-          component props we passes the imported component*/}
           <Route path="/dataprivacy" component={DataPrivacyPage} />
+          <Route path="/portfolio" component={PortfolioPage} />
+          <Route path="/linktree" component={LinkTreePage} />
 
           {/* If any route mismatches the upper 
           route endpoints then, redirect triggers 
