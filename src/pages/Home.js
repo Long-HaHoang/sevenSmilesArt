@@ -8,7 +8,7 @@ export default function HomePage() {
         <div>
           <a href="/portfolio">Portfolio</a>
           <a href="/linktree">Link Tree</a>
-          <a href="https://www.instagram.com/EyJoJordan">Shop (*)</a>
+          <a href="https://www.etsy.com/">Shop (*)</a>
         </div>
       </header>
       <main>
