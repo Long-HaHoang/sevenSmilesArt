@@ -1,76 +1,72 @@
 [
   {
-    "splashysmokes": {
-      "id": "splashysmokes",
-      "seriesName": "Splashy Smokes",
-      "release": "2023-02-10",
-      "images": [
-        {
-          "seriesnumber": 1,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317178/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_efgkqn.jpg"
-        },
-        {
-          "seriesnumber": 2,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317177/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_1_mpzwcn.jpg"
-        },
-        {
-          "seriesnumber": 3,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317178/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_2_cmcdud.jpg"
-        },
-        {
-          "seriesnumber": 4,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317178/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_3_tduccb.jpg"
-        },
-        {
-          "seriesnumber": 5,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317177/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_4_hdq7jf.jpg"
-        },
-        {
-          "seriesnumber": 6,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317178/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_5_innkha.jpg"
-        },
-        {
-          "seriesnumber": 7,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317177/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.08_d0tqm1.jpg"
-        }
-      ]
-    }
+    "id": "splashysmokes",
+    "seriesName": "Splashy Smokes",
+    "release": "2023-02-10",
+    "images": [
+      {
+        "seriesnumber": 1,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317178/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_efgkqn.jpg"
+      },
+      {
+        "seriesnumber": 2,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317177/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_1_mpzwcn.jpg"
+      },
+      {
+        "seriesnumber": 3,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317178/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_2_cmcdud.jpg"
+      },
+      {
+        "seriesnumber": 4,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317178/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_3_tduccb.jpg"
+      },
+      {
+        "seriesnumber": 5,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317177/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_4_hdq7jf.jpg"
+      },
+      {
+        "seriesnumber": 6,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317178/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.02_5_innkha.jpg"
+      },
+      {
+        "seriesnumber": 7,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317177/7smilesArt/Splashy%20Smoke/WhatsApp_Image_2023-03-17_at_13.57.08_d0tqm1.jpg"
+      }
+    ]
   },
   {
-    "lostsouls": {
-      "id": "lostsouls",
-      "seriesName": "Lost Souls",
-      "release": "2023-02-10",
-      "images": [
-        {
-          "seriesnumber": 1,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317162/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_dokq6h.jpg"
-        },
-        {
-          "seriesnumber": 2,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_1_qlghrl.jpg"
-        },
-        {
-          "seriesnumber": 3,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317162/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_2_ypitka.jpg"
-        },
-        {
-          "seriesnumber": 4,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_3_aa0ywq.jpg"
-        },
-        {
-          "seriesnumber": 5,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_4_b2dkss.jpg"
-        },
-        {
-          "seriesnumber": 6,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_5_jskqku.jpg"
-        },
-        {
-          "seriesnumber": 7,
-          "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_6_peeh7n.jpg"
-        }
-      ]
-    }
+    "id": "lostsouls",
+    "seriesName": "Lost Souls",
+    "release": "2023-02-10",
+    "images": [
+      {
+        "seriesnumber": 1,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317162/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_dokq6h.jpg"
+      },
+      {
+        "seriesnumber": 2,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_1_qlghrl.jpg"
+      },
+      {
+        "seriesnumber": 3,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317162/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_2_ypitka.jpg"
+      },
+      {
+        "seriesnumber": 4,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_3_aa0ywq.jpg"
+      },
+      {
+        "seriesnumber": 5,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_4_b2dkss.jpg"
+      },
+      {
+        "seriesnumber": 6,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_5_jskqku.jpg"
+      },
+      {
+        "seriesnumber": 7,
+        "image": "https://res.cloudinary.com/dfdbznn1q/image/upload/v1679317161/7smilesArt/Lost%20Souls/WhatsApp_Image_2023-03-17_at_13.58.11_6_peeh7n.jpg"
+      }
+    ]
   }
 ]

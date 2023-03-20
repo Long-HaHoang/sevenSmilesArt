@@ -104,7 +104,6 @@ body {
 }
 
 header {
-  border: solid blue;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -113,7 +112,6 @@ header {
 }
 
 header div {
-  border: solid red;
   align-self: flex-end;
   display: flex;
   flex-direction: column;
@@ -127,6 +125,7 @@ main {
   align-items: center;
   justify-content: center;
   padding: 6rem;
+  gap: 10px;
 }
 
 a {
@@ -145,4 +144,37 @@ footer {
   html {
     color-scheme: dark;
   }
+}
+
+.seriesWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100vw;
+  gap: 10px;
+}
+
+.seriesGroup {
+  position: relative;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 100%;
+}
+
+.seriesImg {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+hr {
+  width: 100%;
 }
